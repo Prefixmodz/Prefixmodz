@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://cataas.com/cat/says/iyrtyg)
+![]([https://cataas.com/cat/says/iyrtyg](https://cataas.com/cat/says/iyrtyg?filter=custom&r=85&g=60&b=255))
 
 <!--
 **Prefixmodz/Prefixmodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
